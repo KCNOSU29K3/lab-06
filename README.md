@@ -7,9 +7,9 @@
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
 
-N/A
+`N/A`
 
 ## Verbal Collaboration
 List students' names and CCIDs here, or simply put `N/A` if not applicable. 
 
-N/A
+`N/A`
